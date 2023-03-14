@@ -7,3 +7,4 @@ console.log(xxx)
 }
 function add(){
 }
+function local(){}
