@@ -2,3 +2,6 @@ function fn(){}
 function test(){
 console.log('修复bug')
 }
+function abc(){
+console.log(xxx)
+}
