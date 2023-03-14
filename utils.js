@@ -1,2 +1,3 @@
+function fn(){}
 function test(){
 }
