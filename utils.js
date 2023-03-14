@@ -7,3 +7,5 @@ console.log(xxx)
 }
 function add(){
 }
+function test(){}
+xxxx
