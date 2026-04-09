@@ -4,4 +4,4 @@ function aaaa() {
   console.log("a");
 }
 
-woxianz kaifa tubiao gognng   gognneng yijing kaifawangbi 
+woxian zai kaifa tubiao gongneng   gongneng yijing kaifawangbile 
