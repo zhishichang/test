@@ -1,1 +1,3 @@
-this is a.js
+function a() {
+  console.log("a");
+}
